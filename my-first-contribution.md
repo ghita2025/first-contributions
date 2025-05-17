@@ -1,7 +1,7 @@
 #My first github contribution 
 
 - I forked the repository: firstcontributions/first-contributions
-i- I cloned it to my machine
+- I cloned it to my machine
 - I created a new branch 
 - I added my name to the file
 - I commited and pushed the change
